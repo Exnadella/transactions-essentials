@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
-			<version>1.4.0</version> <!-- compatible with all later API versions, see https://www.slf4j.org/manual.html -->
+			<version>2.0.12</version> <!-- compatible with all later API versions, see https://www.slf4j.org/manual.html -->
 			<optional>true</optional>
 		</dependency>
 		<dependency>
