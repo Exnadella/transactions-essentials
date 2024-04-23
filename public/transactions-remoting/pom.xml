@@ -53,7 +53,7 @@
 		<dependency>
 			<artifactId>cxf-rt-rs-extension-providers</artifactId>
 			<groupId>org.apache.cxf</groupId>
-			<version>3.1.11</version>
+			<version>4.0.4</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
